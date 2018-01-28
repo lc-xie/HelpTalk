@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="0,1,2">
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_11"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="的！"/>
+                <Button
+                    android:id="@+id/swf_button_12"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="你"/>
+                <Button
+                    android:id="@+id/swf_button_13"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="我"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_21"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="他"/>
+
+                <Button
+                    android:id="@+id/swf_button_22"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="回家"/>
+
+                <Button
+                    android:id="@+id/swf_button_23"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="想"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_31"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="哪"/>
+                <Button
+                    android:id="@+id/swf_button_32"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="吗"/>
+                <Button
+                    android:id="@+id/swf_button_33"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="什么"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_41"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="清除" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_42"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_43"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_51"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="清除" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_52"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_53"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginBottom="-5dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/swf_button_61"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:text="清除" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_62"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+
+                <Button
+                    android:id="@+id/swf_button_63"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:text="播放" >
+                </Button>
+            </TableRow>
+
+        </TableLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

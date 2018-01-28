@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HelpTalk</string>
+    <string name="edit_text_hint">点击按钮获取内容或直接键盘输入</string>
+
+    <!--按钮分类text-->
+    <string name="button_text_type_cs">常用语</string>
+    <string name="button_text_type_fruit">水果饮料</string>
+    <string name="button_text_type_word">字词</string>
+    <string name="button_text_type_verb">动词</string>
+    <string name="button_text_type_feeling">感觉</string>
+    <string name="button_text_type_sport">运动</string>
+    <!--功能按钮text-->
+    <string name="button_text_func_clean">清除</string>
+    <string name="button_text_func_play">播放</string>
+    <string name="button_text_func_backspace">回删</string>
+    <string name="button_text_func_edit">编辑</string>
+
+</resources>
